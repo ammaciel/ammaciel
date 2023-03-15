@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://gist.github.com/rxaviers/7360908 - Complete list of github markdown emoji markup
-https://github-emoji-picker.vercel.app/ -- 
+https://gist.github.com/rxaviers/7360908 - list of github markdown emoji markup
+https://github-emoji-picker.vercel.app/ -- more one list of github markdown emoji markup
 https://b64.io/ -- image to base64
+https://www.reduceimages.com/ -- reduce image icon png to size of 23px
 -->
 
 <h3 align="left">Hello, I'm Adeline! ✨:hand:</h3>
@@ -41,4 +42,3 @@ https://b64.io/ -- image to base64
 
 [![Lattes Badge](https://img.shields.io/badge/-Adeline_Marinho_Maciel-2c2b64?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAMAAAA8w5+RAAABVlBMVEUAAAD///9VVVVAQEArKysgICAcHBwXFxcVFRUSEhIREREgICAeHh4bGxsaGhoYGBgfHx8cHBwiIiIhISEnJycrKyssLCw0NDQzMzM3Nzc6Ojo8PDxAQEBBQUFDQ0NKSkpRUVFSUlJVVVVXV1daWlpcXFxbW1tfX19hYWFgYGBiYmJhYWFkZGRmZmZubm5ubm51dXV5eXl7e3t9fX19fX2AgICBgYGCgoKDg4OFhYWHh4eJiYmLi4uMjIyQkJCPj4+SkpKTk5OVlZWXl5eWlpaZmZmZmZmampqcnJybm5ukpKSoqKipqamqqqqrq6usrKyurq6wsLCvr6+ysrKzs7O0tLS3t7e5ubm6urq7u7u/v7/BwcHDw8PHx8fIyMjKysrV1dXV1dXa2trb29vk5OTl5eXn5+fq6urt7e3w8PDv7+/09PT29vb5+fn7+/v8/Pz9/f3+/v4pptlfAAAAcXRSTlMAAQMEBggJCwwODxARExQVGRseHyEkKTEyMzk8PD9BSE9RVFVYW1xeX2BgYWNkbW90enx8fn5/g4SEhoiKjI6QkZKVlpeYmZqam6OoqaqqrK6vsLOztbe5ubvAwcPHyMvV1trc5eXn6+3v8PT2+fv8/e/i/R4AAAD6SURBVHjaXM8DsgQwEEXR+23btm3btm28/Rcm1Rmf2GlwKsf3Tnenm3KJKLqU93fRnIxX+GIzn6tddTV1VQmYc5u7ySNKuc39l2SOHmxUQ5ZtHbbJx4QbOUuJeeuJwJZN3hXLTHG9CpzY4Dnrx9rv1BW1wL5MwaxM3qJeU5iX6Uqa/3fNEVdSE90yJ1A6sNKbWuaWFiiR+c330T1J2oba9sn9hx8NAul973KWYe1+c6ijoXesdeT4S6YNKhTnIwO4jZvsx2lXjIsknNR3RbnJxMxEze2k4ZX8K+gtMC1GeJiGQ4SyLHmQAloB5KUoXQ4GZMAUZK/Ei8QHAP81c8I4k/9xAAAAAElFTkSuQmCC&logoColor=white&link=http://lattes.cnpq.br/9198589807862587)](http://lattes.cnpq.br/9198589807862587)
 
-<!--[<img align="center" alt="adelinemaciel | Lattes" width="22px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png"/>](http://lattes.cnpq.br/9198589807862587) <a href="http://lattes.cnpq.br/9198589807862587"> Currículo Lattes</a>-->
