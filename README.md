@@ -36,6 +36,6 @@ https://github-emoji-picker.vercel.app/
 
 [![Orcid Badge](https://img.shields.io/badge/-Adeline_Marinho_Maciel-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-1467-6488)](https://orcid.org/0000-0002-1467-6488)
 
-[![Lattes Badge](https://img.shields.io/badge/-Adeline_Marinho_Maciel-2c2b64?style=flat&logo=icon-lattes.png&logoColor=white&link=http://lattes.cnpq.br/9198589807862587)](http://lattes.cnpq.br/9198589807862587)
+[![Lattes Badge](https://img.shields.io/badge/-Adeline_Marinho_Maciel-2c2b64?style=flat&logo=icon-lattes:image/png&logoColor=white&link=http://lattes.cnpq.br/9198589807862587)](http://lattes.cnpq.br/9198589807862587)
 
 [<img align="center" alt="adelinemaciel | Lattes" width="22px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png"/>](http://lattes.cnpq.br/9198589807862587) <a href="http://lattes.cnpq.br/9198589807862587"> Currículo Lattes</a>
